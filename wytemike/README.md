@@ -140,3 +140,150 @@ lint/tmp/
 # lint/reports/
 </body>
 </html>
+<!DOCTYPE HTML> 
+
+<a href="content://media/external/images/media/4989">wytemike.jpg</a>
+
+<html>
+
+<body>
+
+<header>
+
+    
+
+<h1><b><p align="center">50calProductions</p></b></h1>
+
+    
+
+</header>
+
+   <font color="blue">
+
+<p align="center"style=color:blue;background-color:gray;">Welcome to my page!</p>
+
+</body> 
+
+</html>
+
+<html>
+
+<body>
+
+<main>
+
+        <p><b>Michael Glenn</b></p>
+
+<form>
+
+    <ul>
+
+    <li><b>Owner</b>
+
+    <li><p><b>Producer</b></p></li>
+
+    </li>
+
+    </ul>
+
+</form>          
+
+<table>
+
+<table border="4">
+
+    <tr>
+
+        <td><b>Audio Engineering</b></td>
+
+        <td><small><b>Music Production</small></b></td>
+
+        <td><small><b>Audio Editing</small></b></td>
+
+        <td><b><small>Mixing</small></b></td>
+
+        <td><b><small>Mastering</small></b></td>
+
+    </tr>
+
+    </table>
+
+    <!DOCTYPE html> 
+
+<html> 
+
+<body> 
+
+<p>
+
+Above the Clouds
+
+<a href="https://youtu.be/1YTYsQuXZhM" target="_blank">by WyteMike</a>.
+
+</p>
+
+<!DOCTYPE html>
+
+<html>
+
+<body>
+
+<iframe width="400" height="345" src="https://www.youtube.com/embed/1YTYsQuXZhM">
+
+</iframe>
+
+<p>
+
+<p><b><p align="right">YouTube</b><a href="https://m.youtube.com/channel/UC40cWjQ4csYYOVwSu81vdhw">Subscribe Here</a></b></p>
+
+    <p><b><p align="right">Reverbnation</b><a  href="http://www.reverbnation.com/wytemikeproducer" target="_blank">Beats are here</a></p>
+
+    <p><b><p align="right">NumberOneMusic</b><a href="https://www.numberonemusic.com/wytemike50cal" target="_blank">Promotion Page</b></a></p>
+
+    </p>
+
+<header>       
+
+       <h2><i>Contact Me</i></h2>
+
+</header>
+
+<html>
+
+<body>
+
+<form>
+
+    <input placeholder="Name" required /><br>
+
+    <input placeholder="Email" required /><br>
+
+    <textarea placeholder="Message" required ></textarea><br>
+
+    <input type="submit" value="SEND"/>
+
+</form>
+
+</main>
+
+<header>
+
+<h3>
+
+<a>
+
+<section class="side"><b>WyteMike</b>
+
+<section class="side">50calProductions</section>
+
+<footer>©2022, Michael Glenn</footer>
+
+</a>
+
+</h3>
+
+</header>
+
+</body>
+
+</html>

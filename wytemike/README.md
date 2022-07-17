@@ -138,5 +138,5 @@ lint/outputs/
 lint/tmp/
 
 # lint/reports/
-    </body>
-  </html>
+</body>
+</html>

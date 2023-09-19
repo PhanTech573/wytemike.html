@@ -1,5 +1,5 @@
 README
-("https://github.com/MoneyMan573/wytemike-w3spaces-com-home-wytemike.jpg.html/main/wytemike-index.html/README.md")
+("https://github.com/MoneyMan573/wytemike-w3spaces-com-home-wytemike.jpg.html/main/wytemike-index.html/README")
 [README.md]("https://github.com/MoneyMan573/https_www.invest86.net_home_wytemike-index.html/README.md")
 # <a href="https://wytemike.w3spaces.com/">WyteMike-index.html/README</a>
 Multi-code "&&amp;" platform webpage doc

@@ -1,4 +1,8 @@
 README
+```README.md
+README.js
+README.sh
+README_md,js.sh```
 invest86-index-html
 # 👋 Hello developer!
 This project contains a basic HTML structure to get you started. Check our [tutorials for frontend development](https://www.w3schools.com/where_to_start.asp) to learn the basics of [HTML](https://www.w3schools.com/html/default.asp) and [CSS](https://www.[w3schools.com/css/default.asp).
@@ -44,65 +48,47 @@ Android Studio Navigation editor temp files
 Android Studio captures folder
 captures/
 
-IntelliJ
-*.iml
-
-.idea/workspace.xml
-
-.idea/tasks.xml
-
-.idea/gradle.xml
-
-.idea/assetWizardSettings.xml
-
-.idea/dictionaries
-
-.idea/libraries
-
-Android Studio 3 in .gitignore file.
-.idea/caches
-
-.idea/modules.xml
-
+IntelliJ.iml.idea/workspace.xml
+'''
+idea/tasks.xml.idea/gradle.xml
+'''
+idea/assetWizardSettings.xml.idea/dictionaries
+'''
+idea/libraries
+'''
+Android Studio 3 in 
+'''
+config.gitignore.js_file.idea/caches
+'''
+idea/modules.xml
+'''
 Comment next line if keeping position of elements in Navigation Editor is relevant for you
-.idea/navEditor.xml
-
+'''
+idea/navEditor.xml
+'''
 Keystore files
-Uncomment the following lines if you do not want to check your keystore files in.
-#*.jks
+Uomment the following lines if you want to check your keystore files in.
+'''
+idea/check_files.keystore
+'''
+External native 
+"build_folder-generated-in-Android_Studio_2.2.externalNativeBuild.cxx/"
+'''
+[Google Services](e.g. APIs or Firebase)](google-services.json)[Freeline](freeline.py)[freeline](freeline_project_description.json)
 
-#*.keystore
+[fastlane](fastlane/report.xml)
 
-External native build folder generated in Android Studio 2.2 and later
-.externalNativeBuild
+[fastlane](Preview.html)
 
-.cxx/
+[fastlane](screenshots)
 
-Google Services (e.g. APIs or Firebase)
-google-services.json
-Freeline
-freeline.py
+[fastlane](test_output)
 
-freeline/
+[fastlane](readme.md)
 
-freeline_project_description.json
+[Version control](vcs.xml)
 
-fastlane
-fastlane/report.xml
-
-fastlane/Preview.html
-
-fastlane/screenshots
-
-fastlane/test_output
-
-fastlane/readme.md
-
-Version control
-vcs.xml
-
-lint
-lint/intermediates/
+[lint](lint/intermediates)
 
 lint/generated/
 

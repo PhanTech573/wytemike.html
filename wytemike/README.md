@@ -1,7 +1,6 @@
-README
-("https://github.com/MoneyMan573/wytemike-w3spaces-com-home-wytemike.jpg.html/main/wytemike/README.md")
-[README.md]("https://github.com/PhanTech573/wytemike.w3schools.com/files/9127143/README.md")
-# <a href="https://wytemike.w3spaces.com/">WyteMike.com</a>
+[README]("https://github.com/MoneyMan573/wytemike-w3spaces-com-home-wytemike.jpg.html/main/wytemike/README.md")]
+[README.md]("https://github.com/MoneyMan573/www.invest86.net-invest86.index.html/files/9127143/README.md")
+# <a href="https://www.invest86.net/">Invest86 LLC</a>
 Multi-code "&&amp;" platform webpage doc
 <html>
   <body>

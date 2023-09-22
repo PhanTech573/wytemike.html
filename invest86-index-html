@@ -1,0 +1,206 @@
+pull-invest86-index-html
+<!DOCTYPE HTML> 
+
+<a href="https://wytemike.w3spaces.com">WyteMike.jpg
+Glenn</a>
+<html>
+<body>
+<header>
+    
+    <h1><b><p align="center">50calProductions</p></b></h1>
+        
+        </header>
+           <font color="blue">
+           <p align="center"style=color:blue;background-color:gray;">Welcome to my page!</p>
+           </body> 
+           </html>
+           <html>
+           <body>
+           <main>
+
+                   <p><b>Michael Glenn</b></p>
+                   <form>
+    <ul>
+    <li><b>Owner</b>
+    <li><p><b>Producer</b></p></li>
+    </li>
+        </ul>
+        </form>          
+        <table>
+        <table border="4">
+    <tr>
+        <td><b>Audio Engineering</b></td>
+        <td><small><b>Music Production</small></b></td>
+        <td><small><b>Audio Editing</small></b></td>
+                <td><b><small>Mixing</small></b></td>
+                        <td><b><small>Mastering</small></b></td>
+    </tr>
+        </table>
+            <!DOCTYPE html> 
+            <html> 
+            <body> 
+
+            <p>
+            Above the Clouds
+            <p><a href="https://youtu.be/1YTYsQuXZhM" target="_blank">by WyteMike</a></p>
+
+            <html>
+            <body>
+            <iframe width="400" height="345" src="https://www.youtube.com/embed/1YTYsQuXZhM">
+            </iframe>
+            <p>
+            <p><b><p align="right">YouTube</b><a href="https://m.youtube.com/channel/UC40cWjQ4csYYOVwSu81vdhw">Subscribe Here</a></b></p>
+            <p><b><p align="right">Reverbnation</b><a  href="http://www.reverbnation.com/wytemikeproducer" target="_blank">Beats are here</a></p>
+<p><b><p align="right">NumberOneMusic</b><a href="https://www.numberonemusic.com/wytemike50cal" target="_blank">Promotion Page</b></a></p>
+<header>      
+<h2><i>Contact Me</i></h2>
+</header>
+<html>
+<body>
+<form>
+    <input placeholder="Name" required /><br>
+    <input placeholder="Email" required /><br>
+    <textarea placeholder="Message" required ></textarea><br>
+    <input type="submit" value="SEND"/>
+</form>
+
+</main>
+    <a
+        id="cy-effective-orcid-url"
+            class="underline"
+                 href="https://orcid.org/0000-0002-8195-8928"
+                      target="orcid.widget"
+                           rel="me noopener noreferrer"
+                                style="vertical-align: top">
+                                     <img
+                                             src="https://orcid.org/sites/default/files/images/orcid_16x16.png"
+                                                     style="width: 1em; margin-inline-start: 0.5em"
+                                                             alt="ORCID iD icon"/>
+                                                                   https://orcid.org/0000-0002-8195-8928
+                                                                       </a>
+                                                                       <header>
+                                                                       <h3>
+                                                                       <section class="side"><b>WyteMike</b>
+<section class="side">50calProductions</section>
+<footer>©2022-Michael Glenn</footer>
+</h3>
+</header>
+</body>
+</html>                                                                       <section class="side"><b>WyteMike</b>
+<section class="side">50calProductions</section>
+<footer>©2022-Michael Glenn</footer>
+</h3>
+</header>
+</body>
+</html>
+                                                                       <section class="side"><b>WyteMike</b>
+<section class="side">50calProductions</section>
+<footer>©2022-Michael Glenn</footer>
+</h3>
+</header>
+</body>
+</html>
+ 
+ <shortcuts xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!--
+        For shortcut.xml:
+        If applicationId in build.gradle is changed from "com.termux", then targetPackage will
+        need to be manually patched since ${applicationId} variable or resource string does not work.
+        If package name in AndroidManifest is changed from "com.termux", then targetClass will
+        need to be manually patched since dot (.) prefix does not work to automatically prefix the
+        package name.
+    -->
+
+    <shortcut
+        android:shortcutId="new_session"
+        android:enabled="true"
+        android:icon="@drawable/ic_new_session"
+        android:shortcutShortLabel="@string/action_new_session"
+        tools:targetApi="n_mr1">
+        <intent
+            android:action="android.intent.action.RUN"
+            android:targetPackage="com.termux"
+            android:targetClass="com.termux.app.TermuxActivity"
+            android:name="android.shortcut.conversation"/>
+    </shortcut>
+
+    <shortcut
+        android:shortcutId="new_failsafe_session"
+        android:enabled="true"
+        android:icon="@drawable/ic_new_session"
+        android:shortcutShortLabel="@string/action_new_session_failsafe"
+        tools:targetApi="n_mr1">
+        <intent
+            android:action="android.intent.action.RUN"
+            android:targetPackage="com.termux"
+            android:targetClass="com.termux.app.TermuxActivity"
+            android:name="android.shortcut.conversation">
+            <extra android:name="com.termux.app.failsafe_session" android:value="true"/>
+        </intent>
+    </shortcut>
+
+    <shortcut
+        android:shortcutId="settings"
+        android:enabled="true"
+        android:icon="@drawable/ic_settings"
+        android:shortcutShortLabel="@string/action_open_settings"
+        tools:targetApi="n_mr1">
+        <intent
+            android:action="android.intent.action.VIEW"
+            android:targetPackage="com.termux"
+            android:targetClass="com.termux.app.activities.SettingsActivity"
+            android:name="android.shortcut.conversation"/>
+    </shortcut>
+
+</shortcuts>
+<PreferenceScreen xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <Preference
+        app:key="termux"
+        app:title="@string/termux_preferences_title"
+        app:summary="@string/termux_preferences_summary"
+        app:fragment="com.termux.app.fragments.settings.TermuxPreferencesFragment"/>
+
+    <Preference
+        app:key="termux_api"
+        app:title="@string/termux_api_preferences_title"
+        app:summary="@string/termux_api_preferences_summary"
+        app:isPreferenceVisible="false"
+        app:fragment="com.termux.app.fragments.settings.TermuxAPIPreferencesFragment"/>
+
+    <Preference
+        app:key="termux_float"
+        app:title="@string/termux_float_preferences_title"
+        app:summary="@string/termux_float_preferences_summary"
+        app:isPreferenceVisible="false"
+        app:fragment="com.termux.app.fragments.settings.TermuxFloatPreferencesFragment"/>
+
+    <Preference
+        app:key="termux_tasker"
+        app:title="@string/termux_tasker_preferences_title"
+        app:summary="@string/termux_tasker_preferences_summary"
+        app:isPreferenceVisible="false"
+        app:fragment="com.termux.app.fragments.settings.TermuxTaskerPreferencesFragment"/>
+
+    <Preference
+        app:key="termux_widget"
+        app:title="@string/termux_widget_preferences_title"
+        app:summary="@string/termux_widget_preferences_summary"
+        app:isPreferenceVisible="false"
+        app:fragment="com.termux.app.fragments.settings.TermuxWidgetPreferencesFragment"/>
+
+    <Preference
+        app:key="about"
+        app:title="@string/about_preference_title"
+        app:persistent="false"/>
+    <!-- app:layout="@layout/preference_markdown_text" -->
+
+    <Preference
+        app:key="donate"
+        app:title="@string/donate_preference_title"
+        app:persistent="false"
+        app:isPreferenceVisible="false"/>
+
+</PreferenceScreen>

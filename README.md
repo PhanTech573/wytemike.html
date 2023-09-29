@@ -1,41 +1,81 @@
-# 👋 Hello developer!
-This project contains a basic HTML structure to get you started. Check our [tutorials for frontend development](https://www.w3schools.com/where_to_start.asp) to learn the basics of [HTML](https://www.w3schools.com/html/default.asp) and [CSS](https://www.w3schools.com/css/default.asp). 🦄
+minikubot_README.md
 
+README.js_minikubot_README.md[Actions Status](https://github.com/lostleolotus/minikubot/workflows/build/badge.svg)](https://github.com/lostleolotus/minikuot/actions)[GoReport Widget]
+[GoReport Status]
+[GitHub All Releases](https://img.shields.io/github/downloads/kubernetes/minikube/total.svg)](https://github.com/kubernetes/minikube/releases/latest)[
+[Latest Release](https://img.shields.io/github/v/release/kubernetes/minikube?include_prereleases)](https://github.com/kubernetes/minikube/releases/latest)][![GoReport Status](https://goreportcard.com/report/github.com/lostleolotus-master/kubernetes/minikubot)][GoReport Widget](https://goreportcard.com/badge/github.com/lostleolotus-master/kubernetes/minikubot"img src"=a href= ("https://github.com/lostleolotus/minikubot/raw/master/images/logo/logo.png" width="100" alt=minikubot.logo.png logo")</a>
 
-## 🏗 What's next?
+minikubot `".$_implement "a local Kubernetes cluster -"Linux" -"Windows"
 
-Build your project however you like using HTML, CSS and JavaScript. 
+    minikube's "primary goals" are to "be the best tool" for "local Kubernetes application development"
+        support all Kubernetes features that fit. "<"img src="https://raw.githubusercontent.com/kubernetes/minikube/master/site/static/images/screenshot.png">" "<width="575" height="322" alt="screenshot">"
 
-Use these four files as your starting point:
+Features
 
-- **README.md:** This is the file that you are reading now. You can change the text in this file to leave information to others about your website - or delete it.
-- **index.html:** This is the default page for your space, where you write HTML, the standard markup language for creating web pages.
-- **styles.css:** Use the CSS file to style your content and change the look of your space with beautiful colors, fonts and much more. 
-- **scripts.js:** Use this file to make your website dynamic and interactive with JavaScript. 
+minikube runs the latest stable release of Kubernetes, with support for standard Kubernetes features like:
 
-> **Note:** The **styles.css** and **scripts.js** files link into the **index.html** file so that they are all connected.
+    LoadBalancer - using minikube tunnel
+    Multi-cluster - using minikube start -p <name>
+    NodePorts - using minikube service
+    Persistent Volumes
+    Ingress
+    Dashboard - minikube dashboard
+    Container runtimes - minikube start --container-runtime
+    Configure apiserver and kubelet options via command-line flags
+    Supports common CI environments
 
+As well as developer-friendly features:
 
-## 🎨 Where to find everything
+    Addons - a marketplace for developers to share configurations for running services on minikube
+    NVIDIA GPU support - for machine learning
+    Filesystem mounts
 
-- **Fonts:** Add your favorite from **Google fonts**.  
-	[Go to tutorial about fonts](https://www.w3schools.com/w3css/w3css_fonts_google.asp)
+For more information, see the official minikube website
+Installation
 
-- **Icons:** Add icons with **Fontawesome** and their free library.  
-	[Go to tutorial about Fontawesome](https://www.w3schools.com/icons/fontawesome5_intro.asp)
+See the Getting Started Guide
 
-- **Images:** Upload images and add their URLs to your code.  
-	[Go to article about how to upload files](https://support.w3schools.com/hc/en-gb/articles/4410414928017)
+📣 Please fill out our fast 5-question survey so that we can learn how & why you use minikube, and what improvements we should make. Thank you! 
+Documentation
 
-> ⚡️ **Tip:** [Set up Google Analytics](https://www.w3schools.com/howto/howto_google_analytics.asp) to get valuable insights about your space and visitors. 
-	
+See https://minikube.sigs.k8s.io/docs/
+More Examples
 
-### ⛑ Need support?
-[Join our Discord community](https://discord.gg/6Z7UaRbUQM) and ask questions in the **#spaces-general** channel.
+See minikube in action here
+Community
 
+minikube is a Kubernetes #sig-cluster-lifecycle project.
 
-### 🚀 Upgrade to Pro
-[Upgrade your account](https://billing.w3schools.com/products/spaces) to boost your space and take your projects to the next level; more requests, more storage and more power for up to 10 spaces.
+    #minikube on Kubernetes Slack - Live chat with minikube developers!
 
+    minikube-users mailing list
 
-Happy learning!
+    minikube-dev mailing list
+
+    Contributing
+
+    Development Roadmap
+
+Join our meetings:
+
+    Bi-weekly office hours, Mondays @ 11am PST
+    Triage Party
+
+Releases
+No releases published
+Create a new release
+Packages
+No packages published
+Publish your first package
+Languages
+
+Go 56.3%
+HTML 36.4%
+Shell 4.1%
+JavaScript 1.5%
+Makefile 0.8%
+Dockerfile 0.4%
+Other 0.5%
+```
+---
+[RELEASE_UPDATES@](https://sites.google.com/view/www-wytemike-w3spacaces-com/wytemike-index-html/https_www_invest86_net-invest86-index.html)
